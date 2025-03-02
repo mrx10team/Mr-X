@@ -8,10 +8,10 @@
 
 🔰 pkg install git
 
-🔰 git clone 
+🔰 git clone https://github.com/mrx10team/Mr-X.git
 
-🔰 cd 
+🔰 cd Mr-X
 
-🔰 python 
+🔰 python xxx_old.py
 
 👍 More hac... tutorial Join my Telegram 😊 ⬇️
